@@ -69,4 +69,4 @@
 - **Kubernetes Resource Monitor**
   - Automates collection of Kubernetes cluster metrics for monitoring.
 - **AWS Instance Management Script**
-  - Starts/stops AWS EC2 instances on demand or based on schedule.
+  - Starts/stops AWS EC2 instances on demand or based on schedule. 
